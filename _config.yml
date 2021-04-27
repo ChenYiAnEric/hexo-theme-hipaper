@@ -73,8 +73,8 @@ search:
 
 # comment ShortName, you can choose only ONE to display.
 duoshuo_shortname: 
-disqus_shortname: 
-livere_shortname: MTAyMC8yOTQ4MS82MDQ5
+disqus_shortname: chenyianeric-blog
+livere_shortname: 
 uyan_uid: 
 wumii: 
 
@@ -83,7 +83,7 @@ wumii:
 # Available value:
 #    default | normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night
 
 
 # widget behavior
