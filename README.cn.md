@@ -84,7 +84,16 @@ Hipaper 使用 [Tomorrow Theme](https://github.com/chriskempson/tomorrow-theme) 
 highlight_theme: default
 ```
 
+### 關聯PAGE項目
 
+```yml
+# need add layout
+title: 分類
+date: 2018-10-10 12:22:12
+type: "categories"
+layout: "categories"
+comments: false
+```
 
 ### 侧边栏
 
