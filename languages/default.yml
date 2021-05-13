@@ -32,3 +32,6 @@ insight:
     categories: 'Categories'
     tags: 'Tags'
     untitled: '(Untitled)'
+views: 
+    head: 'views'
+    footer: ''

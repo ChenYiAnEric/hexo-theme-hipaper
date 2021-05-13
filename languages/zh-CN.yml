@@ -32,3 +32,6 @@ insight:
     categories: '分类'
     tags: '标签'
     untitled: '(无标题)'
+views: 
+    head: '本文总阅读量'
+    footer: '次'

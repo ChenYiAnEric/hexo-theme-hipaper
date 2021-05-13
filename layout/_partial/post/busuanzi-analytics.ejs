@@ -1,5 +1,5 @@
 <% if (!index && !is_current("about", false) && theme.busuanzi_analytics){ %>
 	<span id="busuanzi_container_page_pv">
-	  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+	  <%= __('views.head') %><span id="busuanzi_value_page_pv"></span><%= __('views.footer') %>
 	</span>
 <% } %>
